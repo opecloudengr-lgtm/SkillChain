@@ -13,14 +13,16 @@ Each milestone should include:
 
 The roadmap should cover:
 
-1. Planning
-2. Smart Contracts
-3. Backend
-4. Frontend
-5. Wallet Integration
-6. Testing
-7. Deployment
-8. Production Launch
-9. Future Features
+1. PRD
+2. Architecture
+3. Database
+4. Backend
+5. Frontend
+6. Blockchain
+7. Folder Structure
+8. Development Rules
+9. API
+10. Tech Stack
 
 Format it like a real startup engineering roadmap.
+
