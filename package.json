@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {
+    "turbo": "^2.10.5",
+    "typescript": "^7.0.2"
+  }
 }
